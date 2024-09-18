@@ -19,14 +19,16 @@ Development Environment: Visual Studio / Code::Blocks
 
 #  Installation Instructions
 1) Clone the repository to your local machine:
+
 git clone https://github.com/yourusername/library-management-system.git
 
-2) Navigate to the project directory:
+3) Navigate to the project directory:
+
 cd library-management-system
 
-3) Open the project in your chosen IDE (e.g., Visual Studio).
-4) Compile the source code.
-5) Run the executable file to start the application.
+4) Open the project in your chosen IDE (e.g., Visual Studio).
+5) Compile the source code.
+6) Run the executable file to start the application.
 
 #  Usage
 1) Upon starting the application, users can create an account or log in.
