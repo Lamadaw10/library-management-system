@@ -1,0 +1,40 @@
+101
+Attack on Titan
+Hajime Isayama
+1
+102
+One Piece
+Eiichiro Oda
+1
+103
+Naruto
+Masahi Kishimoto
+1
+104
+My Hero Academia
+Kohei Horikoshi
+1
+105
+Death Note
+Tsugumi Ohba
+1
+106
+Demon Slayer: Kimetsu no Yaiba
+Koyoharu Gotouge
+1
+107
+Fullmetal Alchemist
+Hiromu Arakawa
+1
+108
+Tokyo Ghoul
+Sui Ishida
+1
+109
+Fairy Tail
+Hiro Mashima
+1
+110
+Sword Art Online
+Reki Kawahara
+1
